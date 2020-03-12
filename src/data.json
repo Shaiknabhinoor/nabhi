@@ -1,0 +1,88 @@
+{
+    "profiles":[
+        {
+            "basics":{
+                "name":"Shaik Nabhi",
+                "email":"nabhinoor@gmail.com",
+                "mobile":"9988776655"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"93%",
+                    "Institute":"Bhashyam high school"
+                },
+                {
+                    "degree":"Intermediate",
+                    "percentage":"9.72",
+                    "Institute":"Bhashyam junior college"
+                },
+                {
+                    "degree":"B.tech",
+                    "percentage":"9.8",
+                    "Institute":"VVIT"
+                }
+            ],
+            "skills":[
+                {
+                    "type":"Programming language",
+                    "values":["C","C++","Java","python"]
+                },
+                {
+                    "type":"Web language",
+                    "values":["html","css","javascript"]
+                },
+                {
+                    "type":"Frame works",
+                    "values":["ReactJs"]
+                },
+                {
+                    "type":"operting systems",
+                    "values":["linux","windows"]
+                }
+            ]
+        },
+        {
+            "basics":{
+                "name":"Bandi DanyRahul",
+                "email":"danyrahul47@gmail.com",
+                "mobile":"5566778899"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"9.0",
+                    "Institute":"Bhashyam"
+                },
+                {
+                    "degree":"intermediate",
+                    "percentage":"94%",
+                    "Institute":"Bhashyam"
+                },
+                {
+                    "degree":"B.tech",
+                    "percentage":"9.9",
+                    "Institute":"vvit"
+                }
+            ],
+            "skills":[
+                {
+                    "type":"Programming language",
+                    "values":["C","C++","Java","python"]
+                },
+                {
+                    "type":"Web language",
+                    "values":["Html","css","javascript"]
+                },
+                {
+                    "type":"Frame works",
+                    "values":["ReactJs"]
+                },
+                {
+                    "type":"operting systems",
+                    "values":["linux","windows"]
+                }
+            ]
+        }
+    ]
+}
